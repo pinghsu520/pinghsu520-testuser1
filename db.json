@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "username": "admin",
+    "first_name": "Jon",
+    "last_name": "Smith",
+    "bio": null,
+    "friends": [
+        "admin2"
+    ],
+    "slug": ""
+}
